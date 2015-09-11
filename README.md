@@ -1,0 +1,2 @@
+# bashUtil
+bash script utilities 
